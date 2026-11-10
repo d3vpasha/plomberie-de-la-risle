@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://plomberie-de-la-risle.vercel.app/sitemap.xml
